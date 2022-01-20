@@ -1,0 +1,18 @@
+img {
+}
+
+@media (min-width: 992px) {
+  .sl-ats-logo {
+    /*width: 120px;*/
+  }
+}
+
+.sl-ats-job-filters .dropdown {
+}
+
+.table > tbody > tr:hover {
+  background-color: #9348c1;
+  color: white;
+  cursor: pointer;
+}
+
